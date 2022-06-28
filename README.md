@@ -28,9 +28,10 @@ Para finalizar, selecione o output do servidor e vá na opção “ routing logi
 
 Você verá que os idosos seguirão por uma fila, e o restante, para a fila comum!
 
-Vide o arquivo em anexo.
+Vide o arquivo "separarpreferencial.rar" neste repositório.
 
 Autora: Kelly Alves de Paula
+
 Wagner Gurgel
 
 Revisão: Arnaldo Gunzi
