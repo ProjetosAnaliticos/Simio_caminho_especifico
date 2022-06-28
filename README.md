@@ -30,7 +30,7 @@ Você verá que os idosos seguirão por uma fila, e o restante, para a fila comu
 
 Vide o arquivo "separarpreferencial.rar" neste repositório.
 
-Autora: Kelly Alves de Paula
+Autores: Kelly Alves de Paula
 
 Wagner Gurgel
 
